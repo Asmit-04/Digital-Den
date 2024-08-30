@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+public/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Directories
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.out
+*.class
+
+# Temporary files
+tmp/
+temp/
